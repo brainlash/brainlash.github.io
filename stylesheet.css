@@ -1,7 +1,8 @@
 div {
 	border-radius: 5px;
 }
-html{font-family:'Bungee Inline', cursive;}
+html{font-family:'Bungee Inline', cursive;
+font-size:12pt;}
 
 #header {
 	z-index: 1;
